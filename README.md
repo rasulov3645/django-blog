@@ -1,3 +1,3 @@
-# Создав новые миграции
-        $ $ python manage.py makemigrations               (Linux)
-
+# Сначала запускаем. 
+		$ python manage.py makemigrations article 		(Linux)
+		$ python manage.py migrate.                     (Linux)
